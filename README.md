@@ -1,4 +1,4 @@
-# spoltight
+# Spotlight
 
 
 Inspiration
